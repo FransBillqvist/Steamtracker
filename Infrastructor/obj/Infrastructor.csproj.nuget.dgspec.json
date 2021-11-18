@@ -14,7 +14,7 @@
         "outputPath": "/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/frans/.config/NuGet/NuGet.Config"
+          "/Users/frans/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
