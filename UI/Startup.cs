@@ -20,6 +20,8 @@ namespace Steamtracker
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            TempConsoleUI tempconsole = new();
+            tempconsole.Run();
         }
 
         public IConfiguration Configuration { get; }

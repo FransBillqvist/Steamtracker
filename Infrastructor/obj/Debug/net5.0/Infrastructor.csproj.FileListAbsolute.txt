@@ -1,0 +1,15 @@
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/bin/Debug/net5.0/Infrastructor.deps.json
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/bin/Debug/net5.0/Infrastructor.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/bin/Debug/net5.0/ref/Infrastructor.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/bin/Debug/net5.0/Infrastructor.pdb
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/bin/Debug/net5.0/Common.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/bin/Debug/net5.0/Common.pdb
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/Infrastructor.csproj.AssemblyReference.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/Infrastructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/Infrastructor.AssemblyInfoInputs.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/Infrastructor.AssemblyInfo.cs
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/Infrastructor.csproj.CoreCompileInputs.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/Infrastructor.csproj.CopyComplete
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/Infrastructor.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/ref/Infrastructor.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Infrastructor/obj/Debug/net5.0/Infrastructor.pdb

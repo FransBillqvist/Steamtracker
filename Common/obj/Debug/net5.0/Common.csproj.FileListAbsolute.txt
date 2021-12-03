@@ -1,0 +1,12 @@
+/Users/frans/Code/C#/Egen/Steamtracker/Common/bin/Debug/net5.0/Common.deps.json
+/Users/frans/Code/C#/Egen/Steamtracker/Common/bin/Debug/net5.0/Common.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Common/bin/Debug/net5.0/ref/Common.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Common/bin/Debug/net5.0/Common.pdb
+/Users/frans/Code/C#/Egen/Steamtracker/Common/obj/Debug/net5.0/Common.csproj.AssemblyReference.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Common/obj/Debug/net5.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frans/Code/C#/Egen/Steamtracker/Common/obj/Debug/net5.0/Common.AssemblyInfoInputs.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Common/obj/Debug/net5.0/Common.AssemblyInfo.cs
+/Users/frans/Code/C#/Egen/Steamtracker/Common/obj/Debug/net5.0/Common.csproj.CoreCompileInputs.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Common/obj/Debug/net5.0/Common.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Common/obj/Debug/net5.0/ref/Common.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Common/obj/Debug/net5.0/Common.pdb

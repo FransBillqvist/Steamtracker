@@ -1,0 +1,15 @@
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/bin/Debug/net5.0/Domain.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/bin/Debug/net5.0/Common.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/bin/Debug/net5.0/Common.pdb
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/Domain.csproj.CopyComplete
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/Domain.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/frans/Code/C#/Egen/Steamtracker/Domain/obj/Debug/net5.0/Domain.pdb
