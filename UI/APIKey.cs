@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Net;
 public class ApiKey
 {
-    private string key = System.IO.File.ReadAllText(@"./APIKEY.rtf");
+    private string key = System.IO.File.ReadAllText(@"../APIKEY.rtf");
 
     public ApiKey()
     {
